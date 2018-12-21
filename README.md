@@ -1,7 +1,6 @@
 # SEPA Payment Code
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Greenkeeper badge](https://badges.greenkeeper.io/hansott/sepa-payment-code.svg)](https://greenkeeper.io/)
 [![Travis](https://img.shields.io/travis/hansott/sepa-payment-code.svg)](https://travis-ci.org/hansott/sepa-payment-code)
 [![Coveralls](https://img.shields.io/coveralls/hansott/sepa-payment-code.svg)](https://coveralls.io/github/hansott/sepa-payment-code)
 [![Dev Dependencies](https://david-dm.org/hansott/sepa-payment-code/dev-status.svg)](https://david-dm.org/hansott/sepa-payment-code?type=dev)
