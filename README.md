@@ -8,7 +8,7 @@
 
 Do you want to make it easier for your clients to pay your invoices? This library generates a payment code for embedding in a QR code. The QR code will be scannable by many mobile banking apps (SEPA/Europe). It's based on the [European Payments Council's standard](http://www.europeanpaymentscouncil.eu/index.cfm/knowledge-bank/epc-documents/quick-response-code-guidelines-to-enable-data-capture-for-the-initiation-of-a-sepa-credit-transfer/epc069-12-quick-response-code-guidelines-to-enable-data-capture-for-the-initiation-of-a-sepa-credit-transfer1/).
 
-What are the advantages of using this package over [sepa-qr](https://github.com/smhg/sepa-qr-js)?
+What are the advantages of using this package?
 
 * Written in TypeScript
 * Allows you to pick your own QR library! [Do you use React?](https://github.com/zpao/qrcode.react) [Do you prefer artistic QR codes?](https://github.com/kciter/qart.js) 
