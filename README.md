@@ -25,7 +25,7 @@ yarn add sepa-payment-code --save
 
 ## Using [qrcode.react](https://github.com/zpao/qrcode.react) (`npm install qrcode.react --save`)
 
-```jsx harmony
+```jsx
 import { PaymentCode } from "sepa-payment-code";
 
 const YourComponent = () => {
