@@ -22,7 +22,7 @@ npm install sepa-payment-code --save
 yarn add sepa-payment-code --save
 ```
 
-## Using [qrcode.react](https://github.com/zpao/qrcode.react) (`npm install qrcode.react --save`)
+#### Using [qrcode.react](https://github.com/zpao/qrcode.react) (`npm install qrcode.react --save`)
 
 ```jsx
 import { PaymentCode } from "sepa-payment-code";
@@ -34,7 +34,7 @@ const YourComponent = () => {
 };
 ```
 
-## Using [qrcode](https://github.com/soldair/node-qrcode) (`npm install qrcode --save`)
+#### Using [qrcode](https://github.com/soldair/node-qrcode) (`npm install qrcode --save`)
 
 ```js
 import { PaymentCode } from "sepa-payment-code";
@@ -43,13 +43,13 @@ const paymentCode = new PaymentCode("Your name", "BE71096123456769", 10.1);
 QRCode.toCanvas(canvas, paymentCode.getPayload());
 ```
 
-## Add structured text (reference)
+#### Add structured text (reference)
 
 ```js
 new PaymentCode("Your name", "BE71096123456769", 10.1, "123456789");
 ```
 
-## Add unstructured text
+#### Add unstructured text
 
 ```js
 new PaymentCode("Your name", "BE71096123456769", 10.1, undefined, "Invoice 2018001");
