@@ -1,7 +1,7 @@
 {
   "name": "sepa-payment-code",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generates SEPA payment codes for embedding in QR codes",
   "keywords": [
     "sepa",
     "payment",
