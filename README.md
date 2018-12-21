@@ -53,7 +53,7 @@ new PaymentCode("Your name", "BE71096123456769", 10.1, "123456789");
 ## Add unstructured text
 
 ```js
-new PaymentCode("Your name", "BE71096123456769", 10.1, undefined, "");
+new PaymentCode("Your name", "BE71096123456769", 10.1, undefined, "Invoice 2018001");
 ```
 
 ### What does a payload look like?
