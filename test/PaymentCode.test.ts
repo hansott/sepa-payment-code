@@ -1,4 +1,4 @@
-import { PaymentCode } from "../src";
+import { PaymentCode } from "../src/PaymentCode";
 
 describe("PaymentCode", () => {
   it("checks if the name of the recipient is not empty", () => {

@@ -11,7 +11,6 @@ Do you want to make it easier for your clients to pay your invoices? This librar
 What are the advantages of using this package over [sepa-qr](https://github.com/smhg/sepa-qr-js)?
 
 * Written in TypeScript
-* 100% test coverage
 * Allows you to pick your own QR library! [Do you use React?](https://github.com/zpao/qrcode.react) [Do you prefer artistic QR codes?](https://github.com/kciter/qart.js) 
 * Extensive documentation
 
