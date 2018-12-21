@@ -1,10 +1,10 @@
 # SEPA Payment Code
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Greenkeeper badge](https://badges.greenkeeper.io/alexjoverm/typescript-library-starter.svg)](https://greenkeeper.io/)
-[![Travis](https://img.shields.io/travis/alexjoverm/typescript-library-starter.svg)](https://travis-ci.org/alexjoverm/typescript-library-starter)
-[![Coveralls](https://img.shields.io/coveralls/alexjoverm/typescript-library-starter.svg)](https://coveralls.io/github/alexjoverm/typescript-library-starter)
-[![Dev Dependencies](https://david-dm.org/alexjoverm/typescript-library-starter/dev-status.svg)](https://david-dm.org/alexjoverm/typescript-library-starter?type=dev)
+[![Greenkeeper badge](https://badges.greenkeeper.io/hansott/sepa-payment-code.svg)](https://greenkeeper.io/)
+[![Travis](https://img.shields.io/travis/hansott/sepa-payment-code.svg)](https://travis-ci.org/hansott/sepa-payment-code)
+[![Coveralls](https://img.shields.io/coveralls/hansott/sepa-payment-code.svg)](https://coveralls.io/github/hansott/sepa-payment-code)
+[![Dev Dependencies](https://david-dm.org/hansott/sepa-payment-code/dev-status.svg)](https://david-dm.org/hansott/sepa-payment-code?type=dev)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/hansott/5)
 
 Do you want to make it easier for your clients to pay your invoices? This library generates a payment code for embedding in a QR code. The QR code will be scannable by many mobile banking apps (SEPA/Europe). It's based on the [European Payments Council's standard](http://www.europeanpaymentscouncil.eu/index.cfm/knowledge-bank/epc-documents/quick-response-code-guidelines-to-enable-data-capture-for-the-initiation-of-a-sepa-credit-transfer/epc069-12-quick-response-code-guidelines-to-enable-data-capture-for-the-initiation-of-a-sepa-credit-transfer1/).
@@ -79,4 +79,4 @@ Invoice 2018001
 
 ```
 
-Try 
+You can copy this into an QR code generator then try scanning it with your banking app.
