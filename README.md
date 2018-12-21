@@ -77,4 +77,4 @@ Invoice 2018001
 
 ```
 
-You can copy this into an QR code generator then try scanning it with your banking app.
+You can copy this into a QR code generator then try scanning it with your banking app.
