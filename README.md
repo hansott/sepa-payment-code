@@ -19,7 +19,7 @@ What are the advantages of using this package?
 ```bash
 npm install sepa-payment-code --save
 # or
-yarn add sepa-payment-code --save
+yarn add sepa-payment-code
 ```
 
 #### Using [qrcode.react](https://github.com/zpao/qrcode.react) (`npm install qrcode.react --save`)
